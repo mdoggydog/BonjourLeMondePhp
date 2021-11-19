@@ -1,0 +1,7 @@
+{
+    "name": "mdoggydog/bonjour-le-monde-php",
+    "description": "Bonjour, Le Monde du PHP",
+    "require": {
+        "php": ">=7.4"
+    }
+}
